@@ -1,0 +1,6 @@
+C:\Users\Familia Parra Godoy\source\repos\BibliotecaEanAP\Capa_Logica\bin\Debug\Capa_Logica.dll
+C:\Users\Familia Parra Godoy\source\repos\BibliotecaEanAP\Capa_Logica\bin\Debug\Capa_Logica.pdb
+C:\Users\Familia Parra Godoy\source\repos\BibliotecaEanAP\Capa_Logica\obj\Debug\Capa_Logica.csproj.AssemblyReference.cache
+C:\Users\Familia Parra Godoy\source\repos\BibliotecaEanAP\Capa_Logica\obj\Debug\Capa_Logica.csproj.CoreCompileInputs.cache
+C:\Users\Familia Parra Godoy\source\repos\BibliotecaEanAP\Capa_Logica\obj\Debug\Capa_Logica.dll
+C:\Users\Familia Parra Godoy\source\repos\BibliotecaEanAP\Capa_Logica\obj\Debug\Capa_Logica.pdb

@@ -1,0 +1,9 @@
+C:\Users\Familia Parra Godoy\source\repos\BibliotecaEanAP\Capa_Datos\obj\Debug\Capa_Datos.csproj.AssemblyReference.cache
+C:\Users\Familia Parra Godoy\source\repos\BibliotecaEanAP\Capa_Datos\obj\Debug\Capa_Datos.csproj.CoreCompileInputs.cache
+C:\Users\Familia Parra Godoy\source\repos\BibliotecaEanAP\Capa_Datos\bin\Debug\Capa_Datos.dll
+C:\Users\Familia Parra Godoy\source\repos\BibliotecaEanAP\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\Familia Parra Godoy\source\repos\BibliotecaEanAP\Capa_Datos\bin\Debug\Capa_Logica.dll
+C:\Users\Familia Parra Godoy\source\repos\BibliotecaEanAP\Capa_Datos\bin\Debug\Capa_Logica.pdb
+C:\Users\Familia Parra Godoy\source\repos\BibliotecaEanAP\Capa_Datos\obj\Debug\Capa_Datos.csproj.CopyComplete
+C:\Users\Familia Parra Godoy\source\repos\BibliotecaEanAP\Capa_Datos\obj\Debug\Capa_Datos.dll
+C:\Users\Familia Parra Godoy\source\repos\BibliotecaEanAP\Capa_Datos\obj\Debug\Capa_Datos.pdb

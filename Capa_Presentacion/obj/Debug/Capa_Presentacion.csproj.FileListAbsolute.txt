@@ -1,0 +1,11 @@
+C:\Users\Familia Parra Godoy\source\repos\BibliotecaEanAP\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.AssemblyReference.cache
+C:\Users\Familia Parra Godoy\source\repos\BibliotecaEanAP\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Familia Parra Godoy\source\repos\BibliotecaEanAP\Capa_Presentacion\bin\Debug\Capa_Presentacion.dll
+C:\Users\Familia Parra Godoy\source\repos\BibliotecaEanAP\Capa_Presentacion\bin\Debug\Capa_Presentacion.pdb
+C:\Users\Familia Parra Godoy\source\repos\BibliotecaEanAP\Capa_Presentacion\bin\Debug\Capa_Datos.dll
+C:\Users\Familia Parra Godoy\source\repos\BibliotecaEanAP\Capa_Presentacion\bin\Debug\Capa_Logica.dll
+C:\Users\Familia Parra Godoy\source\repos\BibliotecaEanAP\Capa_Presentacion\bin\Debug\Capa_Datos.pdb
+C:\Users\Familia Parra Godoy\source\repos\BibliotecaEanAP\Capa_Presentacion\bin\Debug\Capa_Logica.pdb
+C:\Users\Familia Parra Godoy\source\repos\BibliotecaEanAP\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.CopyComplete
+C:\Users\Familia Parra Godoy\source\repos\BibliotecaEanAP\Capa_Presentacion\obj\Debug\Capa_Presentacion.dll
+C:\Users\Familia Parra Godoy\source\repos\BibliotecaEanAP\Capa_Presentacion\obj\Debug\Capa_Presentacion.pdb
