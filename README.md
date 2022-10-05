@@ -19,4 +19,4 @@
 <p style="text-align: left;"><img src="https://myfiles.space/user_files/131899_06737897ec7a0d1c/131899_custom_files/Eliminar.png?496" alt="" style="width: 727px; height: 371.853px;" width="727" height="371.853"></p>
 <p style="text-align: left;">Como se puede ver en el ejemplo se borro el libro con el codigo 14</p>
 <p style="text-align: left;"><br></p>
-<div style="color: red;">Prueba Word to HTML - <a href="https://wordtohtml.net/site/payment">P&aacute;sate a PRO</a>.</div>
+
