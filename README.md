@@ -1,4 +1,5 @@
 <p style="text-align: center;"><strong>CRUD BIBLIOTECA EAN</strong></p>
+<p style="text-align: left;">Para ingresar el precio debe tener un valor inferior a 1000 dadas las condiciones iniciales de la tabla libros </p>
 <p style="text-align: left;"><strong>Nuevo</strong></p>
 <p style="text-align: left;">Este bot&oacute;n se encarga de poner todos los textbox en su valor predeterminado. NOTA: Se este utilizar este bot&oacute;n antes de a&ntilde;adir un nuevo registro en la base de datos</p>
 <p style="text-align: left;"><img src="https://myfiles.space/user_files/131899_06737897ec7a0d1c/131899_custom_files/NUEVO.png?615" alt="" style="width: 830px; height: 422.737px;" width="830" height="422.737"></p>
